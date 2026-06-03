@@ -17,13 +17,16 @@ This is a **binary classification** problem.
 - **TensorFlow / Keras** — neural network model
 
 ## 📂 Project Structure
+```text
+
 lending-club-loan-prediction/
-├── data/           # Raw dataset (not tracked by Git)
+├── data/           # Raw dataset 
 ├── notebooks/      # Jupyter notebooks for EDA & modeling
 ├── models/         # Saved trained models
 ├── src/            # Reusable Python modules
 ├── requirements.txt
 └── README.md
+```
 
 ## 🚀 Getting Started
 ```bash

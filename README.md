@@ -46,4 +46,3 @@ pip install -r requirements.txt
 - ~490,000 loan records
 - Target column: `loan_status` (Fully Paid / Charged Off)
 
-## 📈 Results

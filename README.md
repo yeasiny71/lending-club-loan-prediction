@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Dataset
 - Source: [LendingClub Dataset - Kaggle](https://www.kaggle.com/wordsforthewise/lending-club)
-- ~490,000 loan records
+- ~395,000 loan records
 - Target column: `loan_status` (Fully Paid / Charged Off)
 
 
